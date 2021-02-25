@@ -1,2 +1,2 @@
 # Codechef
-My codechef contest solutions
+My codechef contests solutions
